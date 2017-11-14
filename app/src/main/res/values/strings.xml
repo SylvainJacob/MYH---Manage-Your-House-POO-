@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MYH - Manage Your House</string>
+    <string name="Eclairage">Eclairage</string>
+    <string name="Sonnette">Sonnette</string>
 </resources>
